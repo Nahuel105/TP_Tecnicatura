@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Aerolinea xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vuelos>
+    <Vuelo>
+      <Codigo>123</Codigo>
+      <FechaSalida>2024-12-12T00:00:00</FechaSalida>
+      <FechaLlegada>2024-12-13T00:00:00</FechaLlegada>
+      <Piloto>Juan</Piloto>
+      <Copiloto>Cruz</Copiloto>
+      <CapacidadMaxima>300</CapacidadMaxima>
+      <PasajerosActuales>150</PasajerosActuales>
+    </Vuelo>
+  </Vuelos>
+</Aerolinea>
